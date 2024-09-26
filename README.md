@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isabellamascarenhas
+- 👋 Hi, I’m @isabellamascarenhas, sou estudante
 - 👀 I’m interested in desenvolver projetos de  analise de dados
 - 🌱 I’m currently learning sobre desenvolvimento e analise de dados da nuvem pelo azure
 - 💞️ I’m looking to collaborate on divulgando meus projetos
